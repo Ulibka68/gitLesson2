@@ -1,1 +1,4 @@
 prg1
+print hi;
+class
+Опера
